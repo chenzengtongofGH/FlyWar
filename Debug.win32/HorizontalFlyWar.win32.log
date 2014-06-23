@@ -1,0 +1,44 @@
+﻿生成启动时间为 6/23/2014 10:01:08 AM。
+     1>项目“E:\大三下学期\综合设计\陈增通\可打印稿\HorizontalFlyWar\proj.win32\HorizontalFlyWar.win32.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug.win32\HorizontalFlyWar.win32.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I. /I..\Classes /I"C:\cocos2d-x-2.2.1\cocos2dx" /I"C:\cocos2d-x-2.2.1\cocos2dx\include" /I"C:\cocos2d-x-2.2.1\cocos2dx\kazmath\include" /I"C:\cocos2d-x-2.2.1\cocos2dx\platform\win32" /I"C:\cocos2d-x-2.2.1\cocos2dx\platform\third_party\win32" /I"C:\cocos2d-x-2.2.1\cocos2dx\platform\third_party\win32\OGLES" /I"C:\cocos2d-x-2.2.1\external" /I"C:\cocos2d-x-2.2.1\CocosDenshion\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS_DEBUG /D COCOS2D_DEBUG=1 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc100.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\AppDelegate.cpp main.cpp
+         main.cpp
+         AppDelegate.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\cocos2d-x-2.2.1\Debug.win32\HorizontalFlyWar.win32.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\cocos2d-x-2.2.1\Debug.win32\\" libcocos2d.lib libExtensions.lib opengl32.lib glew32.lib libBox2d.lib libCocosDenshion.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug.win32\HorizontalFlyWar.win32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\cocos2d-x-2.2.1\Debug.win32\HorizontalFlyWar.win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\cocos2d-x-2.2.1\Debug.win32\HorizontalFlyWar.win32.lib" /MACHINE:X86 Debug.win32\HorizontalFlyWar.res
+         Debug.win32\HorizontalFlyWar.win32.exe.embed.manifest.res
+         Debug.win32\AppDelegate.obj
+         Debug.win32\BossBullet.obj
+         Debug.win32\Bullet.obj
+         Debug.win32\EnemyBase.obj
+         Debug.win32\EnemyBoss.obj
+         Debug.win32\FlyPlayer.obj
+         Debug.win32\GameObject.obj
+         Debug.win32\GameOver.obj
+         Debug.win32\IconvString.obj
+         Debug.win32\InGameLayer.obj
+         Debug.win32\LearnClass.obj
+         Debug.win32\CUserProfile.obj
+         Debug.win32\WelComeLayer.obj
+         Debug.win32\main.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug.win32\HorizontalFlyWar.win32.exe.embed.manifest" /manifest Debug.win32\HorizontalFlyWar.win32.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         HorizontalFlyWar.win32.vcxproj -> C:\cocos2d-x-2.2.1\Debug.win32\HorizontalFlyWar.win32.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug.win32\HorizontalFlyWar.win32.unsuccessfulbuild”。
+         正在对“Debug.win32\HorizontalFlyWar.win32.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\大三下学期\综合设计\陈增通\可打印稿\HorizontalFlyWar\proj.win32\HorizontalFlyWar.win32.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.15
